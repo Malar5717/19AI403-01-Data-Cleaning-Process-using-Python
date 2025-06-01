@@ -21,6 +21,6 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+            <<  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Malar5717/19AI403-01-Data-Cleaning-Process-using-Python/blob/main/ds_exp01.ipynb) >>
 # Result
           <<include your Result here>>
