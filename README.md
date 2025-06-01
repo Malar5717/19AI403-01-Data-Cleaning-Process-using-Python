@@ -24,4 +24,4 @@ STEP 6: Use zscore of to remove outliers
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Malar5717/19AI403-01-Data-Cleaning-Process-using-Python/blob/main/ds_exp01.ipynb) 
 
 # Result
-          <<include your Result here>>
+Thus to read the given data and perform data cleaning and save the cleaned data to a file done successfully.
